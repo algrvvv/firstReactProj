@@ -1,0 +1,18 @@
+.costs {
+  padding: 1rem;
+  background-color: #aac4d1;
+  margin: 2rem auto;
+  width: 70rem;
+  max-width: 95%;
+}
+
+.no-cost-item{
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #bd8025;
+  box-shadow: 0 2px 7px rgba(0,0,0,0.25);
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
